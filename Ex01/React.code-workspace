@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "front_end",
+			"path": "../../front_end"
+		},
+		{
+			"name": "streamlit",
+			"path": "../../streamlit"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "front_end"
+	}
+}
